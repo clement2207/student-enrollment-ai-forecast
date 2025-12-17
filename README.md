@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Student Enrollment AI Forecast
 
 This project demonstrates how AI-inspired modeling and synthetic data can be used to forecast student enrollment under demographic and policy uncertainty.
@@ -106,6 +105,3 @@ This project illustrates:
 - how AI can support **transparent decision-making**
 
 It bridges **data science**, **AI engineering**, and **policy-oriented modeling**.
-=======
-# student-enrollment-ai-forecast
->>>>>>> 4a0ca3e39274f895d3a247b47b892f60f726d7ea
