@@ -14,3 +14,6 @@ __pycache__/
 
 # OS
 .DS_Store
+
+#open AI keys 
+test_openai.py/
